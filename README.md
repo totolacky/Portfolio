@@ -1,8 +1,8 @@
 # Woomin Song (송우민, totolacky)
 
-![Woomin_Song](./images/woomin_song.jpg)
-
 ## About Me
+<img src="./images/woomin_song.jpg" width="200" height="200">
+
 KAIST Undergraduate in 4th year
 
 **Major**: Electrical Engineering, **Double Major**: Computer Science, **Minor**: Mathematical Science
@@ -34,14 +34,14 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### [BBIBBI: A Retro Web Messenger Service](https://github.com/totolacky/BBIBBI) (2020)
 
-![BBIBBI](./images/bbibbi.PNG)
+<img src="./images/bbibbi.PNG" width="400" height="250">
 
 * Technology Stack: Vue.js, Node.js, MySQL
 * Team size: 1
 
 ### Algorithm Design Research on Bluetooth-Based COVID-19 Contact Tracing System (2020~)
 
-![contact_tracing](./images/contact_tracing.jpg)
+<img src="./images/contact_tracing.jpg" width="200" height="300">
 
 * Technology Stack: Java (Android), Vue.js, Typescript, MySQL
 * Team size: 4 undergraduates, 3 graduates, 3 professors
