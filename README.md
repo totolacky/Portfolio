@@ -73,7 +73,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
     - Out-game environment design & implementation
     - Real-time game server design & implementation
 * (2018) [Connect 4: Connect-4 Game With a Simple AI](https://github.com/totolacky/ConnectFourAI)
-  - Technology Stack: Java AWT & Swing
+  - Technology Stack: Java
   - Team size: 1
 
 ### App
