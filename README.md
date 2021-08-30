@@ -10,9 +10,9 @@ KAIST Undergraduate in 4th year
 Languages: C, Python, Java, Kotlin, Javascript
 
 Interests: A wide variaty of fields including (but not limited to)
+* Machine learning
 * App/web development
 * Game development
-* Machine learning
 
 ## Recent Projects
 
